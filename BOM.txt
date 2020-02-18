@@ -25,3 +25,5 @@
 - Socket SOP-16 to DIP [x1] [e.g. https://www.aliexpress.com/item/32827349954.html]
 
 - Clip SOP8 [x1] [e.g. https://www.aliexpress.com/item/32834585643.html]
+
+- FT232H CJMCU [x1] [e.g. https://aliexpress.com/item/33052982174.html]
