@@ -1,0 +1,27 @@
+- 2-Pin 2.54mm Pin-Header [x5] [e.g. https://www.aliexpress.com/item/32864438850.html]
+- 3-Pin 2.54mm Pin-Header [x3]
+- 4-Pin 2.54mm Pin-Header [x2]
+- 5-Pin 2.54mm Pin-Header [x1]
+- 6-Pin 2.54mm Pin-Header [x1]
+- 7-Pin 2.54mm Pin-Header [x1]
+- 10-Pin 2.54mm Pin-Header [x2]
+
+- 2x5-Pin 2.54mm Pin-Header [x1] [e.g. https://www.aliexpress.com/item/32959110632.html]
+- 2x10-Pin 2.54mm Pin-Header [x2]
+
+- 4-Pin 2.54mm Pin-Socket [x3] [e.g. https://www.aliexpress.com/item/32838874466.html]
+- 10-Pin 2.54mm Pin-Socket [x4]
+
+- Jumper with Long Handle [x26] [e.g. https://www.aliexpress.com/item/33016645429.html]
+
+- Resistor 470 Ohm 2010 [x3] [e.g. https://www.aliexpress.com/item/32996302793.html]
+
+- Screws with flat head 2x6mm [x4] [e.g. https://www.aliexpress.com/item/32958878628.html]
+
+- 10-Pin 2.54mm Terminal Block [x2] [e.g. https://www.aliexpress.com/item/33047143170.html]
+
+- Socket SOP-8 to DIP [x1] [e.g. https://www.aliexpress.com/item/32827349954.html]
+
+- Socket SOP-16 to DIP [x1] [e.g. https://www.aliexpress.com/item/32827349954.html]
+
+- Clip SOP8 [x1] [e.g. https://www.aliexpress.com/item/32834585643.html]
