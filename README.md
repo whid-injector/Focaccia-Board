@@ -1,5 +1,7 @@
 # Focaccia-Board
- Multipurpose Breakout for the FT232H
+ A Multipurpose Breakout for the FT232H
+ 
+ P.S. I am going to ask WHID-Injector & WHID-Elite manufacturer if interested to bring it to life at the usual affordable price for the folks out there that have no time or capabilities to print the PCB themselves. #StayTuned & Follow @whid-injector on Twitter!
 
 # Tips:<br>
 - This breakout is designed for the FT232H CJMCU board (https://www.aliexpress.com/item/32814913865.html)<br>
