@@ -4,7 +4,7 @@
  P.S. I am going to ask WHID-Injector & WHID-Elite manufacturer if interested to bring it to life at the usual affordable price for the folks out there that have no time or capabilities to print the PCB themselves. #StayTuned & Follow @whid-injector on Twitter!
  
 # Bill-of-Materials
-Please check the BOM.txt for the components needed. Most likely (except the R470OHM 2010) you may have all you need already.
+Please check the BOM.txt for the components needed. Most likely (except the R470OHM 2010) you may have all you need already.<br>
 Of course, you still need to purchase a part the FT232H CJMCU (e.g. https://aliexpress.com/item/33052982174.html)
 
 # Tips:<br>
