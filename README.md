@@ -5,6 +5,7 @@
  
 # Bill-of-Materials
 Please check the BOM.txt for the components needed. Most likely (except the R470OHM 2010) you may have all you need already.
+Of course, you still need to purchase a part the FT232H CJMCU (e.g. https://aliexpress.com/item/33052982174.html)
 
 # Tips:<br>
 - This breakout is designed for the FT232H CJMCU board (https://www.aliexpress.com/item/32814913865.html)<br>
