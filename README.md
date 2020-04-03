@@ -1,6 +1,7 @@
 
 # Focaccia-Board
  A Multipurpose Breakout for the FT232H to easily clean and hack (I)IoT devices!
+ Read more about it here: https://medium.com/@LucaBongiorni/hacking-iot-devices-with-focaccia-board-8c4e009ed488
  <img src="https://miro.medium.com/max/622/1*vHCtNQX8rzAZNiSN__ZFtQ.jpeg" width=300 align=right>
   
  P.S. I am going to ask WHID-Injector & WHID-Elite manufacturer if interested to bring it to life at the usual affordable price for the folks out there that have no time or capabilities to print the PCB themselves. #StayTuned & Follow @whid-injector on Twitter!
