@@ -4,7 +4,11 @@
  Read more about it here: https://medium.com/@LucaBongiorni/hacking-iot-devices-with-focaccia-board-8c4e009ed488
  <img src="https://miro.medium.com/max/622/1*vHCtNQX8rzAZNiSN__ZFtQ.jpeg" width=300 align=right>
   
- P.S. I am going to ask WHID-Injector & WHID-Elite manufacturer if interested to bring it to life at the usual affordable price for the folks out there that have no time or capabilities to print the PCB themselves. #StayTuned & Follow @whid-injector on Twitter!
+# For Sale on Tindie & Aliexpress
+https://www.aliexpress.com/item/4001080780756.html
+https://www.tindie.com/products/aprbrother/focaccia-board/
+
+** The Author has no profit out of WHIDelite sales. But you can always buy him an Italian Coffee :) <a href='https://ko-fi.com/X7X6L82L' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  
 # Bill-of-Materials
 Please check the BOM.txt for the components needed. Most likely (except the R470OHM 2010) you may have all you need already.<br>
