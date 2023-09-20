@@ -5,11 +5,10 @@
  <img src="https://miro.medium.com/max/622/1*vHCtNQX8rzAZNiSN__ZFtQ.jpeg" width=300 align=right>
   
 # For Sale on Tindie & Aliexpress
-https://www.aliexpress.com/item/4001080780756.html
-
-https://www.tindie.com/products/aprbrother/focaccia-board/
-
-https://labs.ksec.co.uk/product/focaccia-board-a-multipurpose-breakout-for-the-ft232h/
+* [Aliexpress](https://www.aliexpress.com/item/4001080780756.html) <br>
+* [Tindie](https://www.tindie.com/products/aprbrother/focaccia-board/) <br>
+* [KSEC](https://labs.ksec.co.uk/product/focaccia-board-a-multipurpose-breakout-for-the-ft232h/
+) EUROPE <br>
 
 ** The Author has no profit out of FocacciaBoard sales. But you can always buy him an Italian Coffee :) 
 
