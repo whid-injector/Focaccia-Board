@@ -9,6 +9,8 @@ https://www.aliexpress.com/item/4001080780756.html
 
 https://www.tindie.com/products/aprbrother/focaccia-board/
 
+https://labs.ksec.co.uk/product/focaccia-board-a-multipurpose-breakout-for-the-ft232h/
+
 ** The Author has no profit out of FocacciaBoard sales. But you can always buy him an Italian Coffee :) 
 
 <a href='https://ko-fi.com/X7X6L82L' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
