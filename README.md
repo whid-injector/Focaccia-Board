@@ -4,7 +4,7 @@
  Read more about it here: https://medium.com/@LucaBongiorni/hacking-iot-devices-with-focaccia-board-8c4e009ed488
  <img src="https://miro.medium.com/max/622/1*vHCtNQX8rzAZNiSN__ZFtQ.jpeg" width=300 align=right>
   
-# For Sale on Tindie & Aliexpress
+# For Sale on:
 * [Aliexpress](https://www.aliexpress.com/item/4001080780756.html) <br>
 * [Tindie](https://www.tindie.com/products/aprbrother/focaccia-board/) <br>
 * [KSEC](https://labs.ksec.co.uk/product/focaccia-board-a-multipurpose-breakout-for-the-ft232h/
