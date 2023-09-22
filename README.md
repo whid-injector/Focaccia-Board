@@ -12,8 +12,19 @@
 
 ** The Author has no profit out of FocacciaBoard sales. But you can always buy him an Italian Coffee :) 
 
-<a href='https://ko-fi.com/X7X6L82L' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
- 
+<a href='https://ko-fi.com/X7X6L82L' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> <br> <br>
+
+
+
+
+## WHID's Trainings ##<br>
+The 𝙊𝙛𝙛𝙚𝙣𝙨𝙞𝙫𝙚 𝙃𝙖𝙧𝙙𝙬𝙖𝙧𝙚 𝙃𝙖𝙘𝙠𝙞𝙣𝙜 𝙏𝙧𝙖𝙞𝙣𝙞𝙣𝙜 is a Self-Paced training including Videos, a printed Workbook and a cool Hardware Hackit Kit. And... you get everything shipped home Worldwide! 🌍🔥😎<br>
+For more info... ➡ https://www.whid.ninja/store <br><br>
+
+[![WHID's Trainings](https://files.gandi.ws/64/2e/642e05f6-84e1-48fe-8a59-d678c7d635e3.PNG)](https://www.youtube.com/watch?v=zbUuBZJIHkE)
+
+
+
 # Bill-of-Materials
 Please check the BOM.txt for the components needed. Most likely (except the R470OHM 2010) you may have all you need already.<br>
 Of course, you still need to purchase a part the FT232H CJMCU (e.g. https://aliexpress.com/item/33052982174.html)
