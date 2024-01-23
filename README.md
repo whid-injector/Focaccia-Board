@@ -27,10 +27,10 @@ For more info... ➡ https://www.whid.ninja/store <br><br>
 
 # Bill-of-Materials
 Please check the BOM.txt for the components needed. Most likely (except the R470OHM 2010) you may have all you need already.<br>
-Of course, you still need to purchase a part the FT232H CJMCU (e.g. https://aliexpress.com/item/33052982174.html)
+Of course, you still need to purchase a part the FT232H CJMCU (e.g. https://s.click.aliexpress.com/e/_DBJ5uvx)
 
 # Tips:<br>
-- This breakout is designed for the FT232H CJMCU board (https://www.aliexpress.com/item/32814913865.html)<br>
+- This breakout is designed for the FT232H CJMCU board (https://s.click.aliexpress.com/e/_DBJ5uvx)<br>
 - Pull-up Resistors are 470 Ohm.<br>
 - Screws to hold the PCB to the 3D-printed case are 2x6mm.<br>
 - You can select the working Voltage by moving the Jumper on the PCB (i.e. Voltage Selector)<br>
